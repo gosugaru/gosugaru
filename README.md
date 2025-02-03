@@ -15,9 +15,12 @@ I go by Chloe, or gosugaru. I’m a 15 year old, allegedly from Brazil with a pa
 ![Gosugaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosugaru&show_icons=true&theme=dracula)
 <br><br><br>
 
-# Contact
+<p align="center">
+<h1 align="center">Contact</h1>
 
-If you find my work valuable, you can show your support by telling me directly! 
+<p align="center">If you find my work valuable, you can show your support by telling me directly! 
   Your verbal support will help me maintain and improve my projects and it will encourage me to create more useful content.</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1107742328690577590)](https://discord.com/users/1107742328690577590)
+<p align="center">
+  <img width="400" src="https://dsc-readme.tsuni.dev/api/user/1107742328690577590"></img>  
+</p>
