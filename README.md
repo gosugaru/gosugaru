@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hiyoo!
+I go by Chloe, or gosugaru. I’m a 15 year old, allegedly from Brazil with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, linux, reverse engineering and web development, and right now, I’m trying to learn more regarding coding languages.
+<br>
+<br>
+### What my skills are:
+[![skills](https://skillicons.dev/icons?i=html,css,js,py,c,linux)](https://skillicons.dev)
+### What I operate with:
+[![skills](https://skillicons.dev/icons?i=arch,windows,ubuntu)](https://skillicons.dev)
+### Some of my *work* software:
+[![skills](https://skillicons.dev/icons?i=vscode,emacs,obsidian,github,ai,replit,stackoverflow,vim,cloudflare,androidstudio,pytorch)](https://skillicons.dev)
+### Some of my *social* software:
+[![skills](https://skillicons.dev/icons?i=discord,instagram,gmail)](https://skillicons.dev)
 
-<!--
-**gosugaru/gosugaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My stats:
+![Gosugaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=gosugaru&show_icons=true&theme=dracula)
+<br><br><br>
 
-Here are some ideas to get you started:
+# Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find my work valuable, you can show your support by telling me directly! 
+  Your verbal support will help me maintain and improve my projects and it will encourage me to create more useful content.</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1107742328690577590)](https://discord.com/users/1107742328690577590)
